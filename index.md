@@ -4,3 +4,5 @@
 ## Hello everyone!!! 🙋‍♂️🧑‍💻
 
 #### My name is Akhdan Taufiq Syofyan. Welcome to my OS Github Page 🖥️📃 !!!
+
+###### © 2024 akhdntaufiq
