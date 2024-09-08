@@ -11,4 +11,15 @@ ZCZC W00 25 L05 Quiz Week 00
 ZCZC W00 10 L41 TXT/mylog.txt related
 ZCZC W00 50 L05 Studying OS for WEEK 01
 ZCZC W00 10 L41 TXT/mylog.txt related
-ZCZC W01 200 L02 Classroom meetings related
+ZCZC W01 100 L02 2/9 Classroom meetings related
+ZCZC W01 10 L41 TXT/mylog.txt related
+ZCZC W01 30 L04 Github pages related
+ZCZC W01 100 L02 4/9 Classroom meetings related
+ZCZC W01 10 L41 TXT/mylog.txt related
+ZCZC W01 20 L61 Install Virtual Box
+ZCZC W01 80 L62 Install Virtual Debian Guest
+ZCZC W01 10 L32 YouTube: Watching vi or vim tutorial
+ZCZC W01 25 L05 Quiz Week 01
+ZCZC W01 60 L04 Github pages related
+ZCZC W01 60 L05 Studying OS for WEEK 02
+ZCZC W01 10 L41 TXT/mylog.txt related
