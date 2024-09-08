@@ -1,4 +1,4 @@
-[🏠 HOME](.) - [🖋️ LOG](https://akhdntaufiq.github.io/os242/TXT/mylog.txt) - [🔗 LINKS](https://akhdntaufiq.github.io/os242/LINKS) - [😼 GitHub](https://github.com/akhdntaufiq/os242)
+[🏠 HOME](https://akhdntaufiq.github.io/os242) - [🖋️ LOG](https://akhdntaufiq.github.io/os242/TXT/mylog.txt) - [🔗 LINKS](https://akhdntaufiq.github.io/os242/LINKS) - [😼 GitHub](https://github.com/akhdntaufiq/os242)
 #### Created by Akhdan
 
 ## Hello everyone!!! 🙋‍♂️🧑‍💻
