@@ -1,5 +1,5 @@
 <table>
-  <thead style="background-color: #2196F3; color: white;">
+  <thead>
     <tr>
       <th>Log</th>
       <th>Github</th>
