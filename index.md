@@ -1,16 +1,6 @@
-<table>
-  <thead>
-    <tr>
-      <th>Log</th>
-      <th>Github</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://akhdntaufiq.github.io/os242/TXT/mylog.txt">LOG</a></td>
-      <td><a href="https://github.com/akhdntaufiq/os242">GITHUB</a></td>
-      <td><a href="https://akhdntaufiq.github.io/os242/LINKS">LINKS</a></td>
-    </tr>
-  </tbody>
-</table>
+[🏠 HOME](.) - [🖋️ LOG](https://akhdntaufiq.github.io/os242/TXT/mylog.txt) - [🔗 LINKS](https://akhdntaufiq.github.io/os242/LINKS) - [😼 GitHub](https://github.com/akhdntaufiq/os242)
+#### Created by Akhdan
+
+## Hello everyone!!! 🙋‍♂️🧑‍💻
+
+#### My name is Akhdan Taufiq Syofyan. Welcome to my OS Github Page 🖥️📃 !!!
