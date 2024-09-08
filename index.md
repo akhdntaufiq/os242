@@ -1,3 +1,16 @@
-| Log             | Github                                         | Links  |
-|-----------------|------------------------------------------------|--------|
-| [LOG](https://akhdntaufiq.github.io/os242/TXT/mylog.txt) | [GITHUB](https://github.com/akhdntaufiq/os242) | [LINKS](https://akhdntaufiq.github.io/os242/LINKS) |
+<table>
+  <thead style="background-color: #2196F3; color: white;">
+    <tr>
+      <th>Log</th>
+      <th>Github</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://akhdntaufiq.github.io/os242/TXT/mylog.txt">LOG</a></td>
+      <td><a href="https://github.com/akhdntaufiq/os242">GITHUB</a></td>
+      <td><a href="https://akhdntaufiq.github.io/os242/LINKS">LINKS</a></td>
+    </tr>
+  </tbody>
+</table>
