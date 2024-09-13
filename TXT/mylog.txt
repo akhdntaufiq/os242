@@ -24,5 +24,17 @@ ZCZC W01 60 L04 Github pages related
 ZCZC W01 60 L05 Studying OS for WEEK 02
 ZCZC W01 10 L41 TXT/mylog.txt related
 ZCZC W02 100 L02 9/9 Classroom meetings related
+ZCZC W02 20 L25 Trying C-language in demo files
 ZCZC W02 100 L02 11/9 Classroom meetings related
 ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W02 150 L12 Finishing Assignment #02
+ZCZC W02 100 L27 SSH, key-gen, tunneling, putty, winscp related
+ZCZC W02 30 L42 TXT/mypubkey.txt related
+ZCZC W02 20 L23 Using bash, regex, and SED for WEEK02 task
+ZCZC W02 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 10 L44 TXT/myscript.sh related
+ZCZC W02 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 15 L41 TXT/mylog.txt related
+ZCZC W02 100 L32 YouTube: watching OS related topics for weekly LINKS
+
+
