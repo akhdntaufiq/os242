@@ -16,8 +16,15 @@ permalink: LINKS/
     Offers information and guides on markdown syntax, a simpler alternative to HTML for formatting text.
 
 ## 🐊 Week 02
-(soon)
+1. [C Tutorials](https://www.learn-c.org/) <br>
+    A comprehensive, beginner-friendly resource that covers everything from setting up a development environment to understanding data types, loops, functions, and pointers.
+2. [GnuPG Documentation](https://gnupg.org/documentation/guides.html) <br>
+   Offers clear, well-structured guidance on encryption, key management, and secure communication, making it a valuable resource for both beginners and advanced users.
+3. [RegexOne](https://regexone.com/) <br>
+   Provides step-by-step lessons for understanding Regex.
 
+## 🐊 Week 03
+(soon)
 
 ###### © 2024 akhdntaufiq
 
