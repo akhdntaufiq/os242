@@ -24,8 +24,15 @@ permalink: LINKS/
    Provides step-by-step lessons for understanding Regex.
 
 ## 🐊 Week 03
-(soon)
+1. [Text Processing Tools: grep, sed, awk](https://www.baeldung.com/linux/grep-sed-awk-differences) <br>
+    Provides an overview of the differences between three powerful text processing tools—grep, sed, and awk—highlighting their functionalities and use cases for tasks like searching, transforming, and processing text.
+2. [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) <br>
+    A detailed guide on disk partitioning in Linux, explaining its importance, the steps to partition a disk using CLI, creating a file system, and mounting partitions for efficient disk management.
+3. [Linux essentials: How to create and delete files and directories](https://www.redhat.com/sysadmin/create-delete-files-directories-linux) <br>
+    A guide on how to create and delete files and directories in Linux using the `mkdir`, `touch`, and `rm` commands, covering basic and advanced file management tasks for sysadmins.
 
+## 🐊 Week 04
+(soon)
 ###### © 2024 akhdntaufiq
 
 
