@@ -45,3 +45,11 @@ ZCZC W03 40 L25 C-language including Make
 ZCZC W03 10 L44 TXT/myscript.sh related
 ZCZC W03 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 15 L41 TXT/mylog.txt related
+ZCZC W04 200 L02 Classroom meetings related
+ZCZC W04 30 L41 TXT/mylog.txt related
+ZCZC W04 25 L05 Quiz Week 03
+ZCZC W04 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 15 L41 TXT/mylog.txt related
+ZCZC W04 10 L44 TXT/myscript.sh related
+ZCZC W04 150 L14 Weekly Assignment #01-#05
+ZCZC W04 15 L41 TXT/mylog.txt related
