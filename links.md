@@ -32,6 +32,14 @@ permalink: LINKS/
     A guide on how to create and delete files and directories in Linux using the `mkdir`, `touch`, and `rm` commands, covering basic and advanced file management tasks for sysadmins.
 
 ## 🐊 Week 04
+1. [Introduction to C's Pointer](https://youtu.be/f2i0CnUOniA) <br>
+    A concise and clear introduction to C pointers, effectively using visuals and examples to simplify a complex topic.
+2. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer) <br>
+   Explains virtual memory, focusing on how it allows computers to manage larger programs efficiently by translating virtual addresses into physical memory.
+4. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) <br>
+    Explains memory management in operating systems, including allocation methods, paging, segmentation, and virtual memory optimization.
+
+## 🐊 Week 05
 (soon)
 ###### © 2024 akhdntaufiq
 
