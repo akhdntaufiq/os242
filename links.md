@@ -40,6 +40,14 @@ permalink: LINKS/
     Explains memory management in operating systems, including allocation methods, paging, segmentation, and virtual memory optimization.
 
 ## 🐊 Week 05
+1. [Intro to GPG Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo&pp=ygUNcnNhIGxpbnV4IGdwZw%3D%3D) <br>
+   Introduction to file encryption with GPG.
+2. [Main Memory Management](https://www.youtube.com/watch?v=Ag4p5yCqte8&ab_channel=SolvingSkills) <br>
+   Outlines how the operating system handles main memory, emphasizing the difference between logical and physical addresses.
+3. [What is virtual memory?](https://tldp.org/LDP/sag/html/vmintro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.) <br>
+   Explains about the concept of virtual memory and it correlates a lot with linux.
+
+## 🐊 Week 06
 (soon)
 ###### © 2024 akhdntaufiq
 
