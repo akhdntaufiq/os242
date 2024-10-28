@@ -59,3 +59,9 @@ ZCZC W05 30 L41 TXT/mylog.txt related
 ZCZC W05 15 L41 TXT/mylog.txt related
 ZCZC W05 10 L44 TXT/myscript.sh related
 ZCZC W05 25 L05 Quiz Week 04
+ZCZC W06 200 L02 Classroom meetings related
+ZCZC W06 150 L14 Weekly Assignment #01-#05
+ZCZC W06 30 L41 TXT/mylog.txt related
+ZCZC W06 15 L41 TXT/mylog.txt related
+ZCZC W06 10 L44 TXT/myscript.sh related
+ZCZC W06 25 L05 Quiz Week 06
