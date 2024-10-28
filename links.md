@@ -48,6 +48,14 @@ permalink: LINKS/
    Explains about the concept of virtual memory and it correlates a lot with linux.
 
 ## 🐊 Week 06
+1. [Fork in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+A clear guide to the fork() system call in Unix/Linux, explaining how it creates child processes to enable parallel execution in programs.
+2.  [How Does a Fork() Work?](https://www.section.io/engineering-education/fork-in-c-programming-language/) <br>
+Offers a comprehensive introduction to using the fork() function in C, detailing how it creates child processes and handles process IDs for efficient multitasking in Unix-based systems.
+3. [SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) <br>
+A guide for using the SCP (secure copy) command.
+
+## 🐊 Week 07
 (soon)
 ###### © 2024 akhdntaufiq
 
