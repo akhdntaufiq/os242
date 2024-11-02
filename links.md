@@ -56,6 +56,14 @@ Offers a comprehensive introduction to using the fork() function in C, detailing
 A guide for using the SCP (secure copy) command.
 
 ## 🐊 Week 07
+1. [Process Synchronization in Operating Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html) <br>
+   Overview of synchronization techniques and challenges in managing concurrent processes.
+2. [Process Synchronization in Operating Systems](https://www.studytonight.com/operating-system/process-synchronization) <br>
+   Explains synchronization mechanisms and solutions to manage concurrent process interactions.
+3. [Peterson's Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) <br>
+   Describes Peterson's Algorithm for ensuring mutual exclusion in concurrent processing.
+
+## 🐊 Week 08
 (soon)
 ###### © 2024 akhdntaufiq
 
