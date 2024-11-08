@@ -72,7 +72,7 @@ A guide for using the SCP (secure copy) command.
    Gives clear explanation about multiple-processor scheduling.
 
 <br>
-Thank you for exploring these resources. I hope they’re helpful and contribute to your learning journey!
+Thank you for exploring my resources !!
 
 ###### © 2024 akhdntaufiq
 
