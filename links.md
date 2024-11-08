@@ -64,7 +64,16 @@ A guide for using the SCP (secure copy) command.
    Describes Peterson's Algorithm for ensuring mutual exclusion in concurrent processing.
 
 ## 🐊 Week 08
-(soon)
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/) <br>
+   This is the guidance book for building Linux From Scratc
+2. [Chapter 1-5 LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) <br>
+   Show how to install your own Linux operating system by installing Linux From Scratch 11.2.
+3. [Multi-Processor Schedulling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
+   Gives clear explanation about multiple-processor scheduling.
+
+<br>
+Thank you for exploring these resources. I hope they’re helpful and contribute to your learning journey!
+
 ###### © 2024 akhdntaufiq
 
 
